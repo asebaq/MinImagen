@@ -1,0 +1,16 @@
+model size: 0.997MB
+
+-------------------- EPOCH 1 --------------------
+----------Checkpoint created at batch number 0----------
+U-Nets Avg Train Losses Epoch 1 Batch 0: [inf, inf]
+U-Nets Batch Train Losses Epoch 1 Batch 0: [1.161, 1.07]
+U-Nets Avg Valid Losses: [0.879, 0.791]
+U-Nets Best Valid Losses: [0.879, 0.791]
+
+-------------------- EPOCH 2 --------------------
+----------Checkpoint created at batch number 0----------
+U-Nets Avg Train Losses Epoch 2 Batch 0: [inf, inf]
+U-Nets Batch Train Losses Epoch 2 Batch 0: [1.155, 1.05]
+U-Nets Avg Valid Losses: [1.147, 1.055]
+U-Nets Best Valid Losses: [0.879, 0.791]
+
